@@ -4,7 +4,9 @@ from email.header import Header
 
 mail_msg = """
 <h2 style="color:#f00">Python自动发邮件测试</h2>
-<p><a href="https://zhuanlan.zhihu.com/p/96005568?utm_campaign=shareopn&utm_medium=social&utm_oi=738424084966146048&utm_psn=1565441964052283393&utm_source=wechat_session">点我看看</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/96005568?utm_campaign=shareopn&utm_medium=social&utm_oi=738424084966146048&utm_psn=1565441964052283393&utm_source=wechat_session">
+<img src="" alt="">
+</a></p>
 """
 utf_str = 'utf-8'
 message = MIMEText(mail_msg, 'html', utf_str) \

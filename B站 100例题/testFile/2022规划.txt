@@ -1,0 +1,11 @@
+=====2022.10.09
+算法
+
+1、Mysql b站杜老师视频
+2、java小项目
+	
+3、python 
+	(1)Github排名第一的Python自学项目，12万人关注！
+	(2)Django 教程
+4、typescript
+5、go
